@@ -1,0 +1,10 @@
+PASS   feature/add-login
+PASS   fix/crash-on-start
+PASS   docs/readme
+FAIL   BadBranchName: does not match the pattern
+FAIL   feature/: a branch name cannot start or end with '/'
+FAIL   hotfix: does not match the pattern
+PASS   feature/add_login-and-tests
+PASS   chore/clean-up-old-code
+PASS   main
+9 checked, 6 passed, 3 failed

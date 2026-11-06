@@ -1,0 +1,10 @@
+# Sample branch names — some pass, some fail on purpose.
+feature/add-login
+fix/crash-on-start
+docs/readme
+BadBranchName
+feature/
+hotfix
+feature/add_login-and-tests
+chore/clean-up-old-code
+main

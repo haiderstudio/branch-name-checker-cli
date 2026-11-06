@@ -1,0 +1,1 @@
+{"allow":["main","master","develop"],"max_length":50,"pattern":"^(feature|fix|docs|chore|refactor|hotfix|release)/[a-z0-9][a-z0-9._-]*$"}
